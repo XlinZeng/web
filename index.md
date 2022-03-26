@@ -1,9 +1,72 @@
-# [Xianlin Zeng's Personal Webpage](https://xlinzeng.github.io/web/)
+# [Xianlin Zeng's Personal Webpage](https://xlinzeng.github.io/XZeng-bit/)
+## Journal papers
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+Xianlin Zeng, Jinlong Lei and Jie Chen, Dynamical primal-dual accelerated method with applications to network optimization, IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2022.3152720. (SCI, 一作)
+Xianlin Zeng, Jie Chen and Yiguang Hong, Distributed optimization design of iterative refinement technique for algebraic Riccati equations, IEEE Transactions on Systems Man Cybernetics: Systems, DOI10.1109/TSMC.2021.3056871. (SCI, 一作)
+Xianlin Zeng, Jie Chen, and Yiguang Hong, Distributed optimization design for computation of algebraic Riccati inequalities, IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2020.3000791. (SCI, 一作)
+Xia Jiang, Xianlin Zeng, Jian Sun and Jie Chen, Distributed hybrid impulsive algorithm with supervisory resetting for nonlinear optimization problems, International Journal of Robust and Nonlinear Control, vol. 31, no. 8, pp. 3230-3247, 2021. (SCI, 通讯)
+Xianlin Zeng, Jie Chen, Jian Sun, and Yiguang Hong, Distributed optimization approach for solving continuous-time Lyapunov equations with exponential rate of convergence, IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 52, no. 3, pp. 1684-1691, 2022. (SCI, 一作)
+Wen Deng, Xianlin Zeng, and Yiguang Hong, Distributed optimisation approach to least squares solution of Sylvester equations, IET Control Theory & Applications, vol. 14, no. 18, pp. 2968-2976, 2020. (SCI, 通讯)
+Xianlin Zeng, Jie Chen, Shu Liang, and Yiguang Hong, Generalized Nash equilibrium seeking strategy for distributed nonsmooth multi-cluster game, Automatica, vol. 103, pp. 20-26, 2019. (SCI, 一作)
+Xianlin Zeng, Peng Yi, Yiguang Hong, and Lihua Xie, Distributed continuous-time algorithms for nonsmooth extended monotropic optimization problems, SIAM Journal on Control and Optimization, vol. 56, no. 6, pp. 3973-3993, 2018. (SCI, 一作)
+Xianlin Zeng, Shu Liang, Yiguang Hong, and Jie Chen, Distributed computation of linear matrix equations: An optimization perspective, IEEE Transactions on Automatic Control, vol. 64, no. 5, pp. 1858-1873, 2019. (SCI, 一作)
+Xianlin Zeng, Peng Yi, and Yiguang Hong, Distributed algorithm for robust resource allocation with polyhedral uncertain allocation parameters, Journal of Systems Science and Complexity, vol. 31, pp. 103-119, 2018. (SCI, 一作)
+Xianlin Zeng and Kai Cao, Computation of linear algebraic equations with solvability verification over multi-agent networks, Kybernetika, vol. 53, no. 5, pp. 803-819, 2017. (SCI, 一作)
+Xianlin Zeng, Peng Yi, and Yiguang Hong, Distributed continuous-time algorithm for constrained convex optimizations via nonsmooth analysis approach, IEEE Transactions on Automatic Control, vol. 62, no. 10, pp. 5227-5233, 2017. (SCI, 一作)
+Xianlin Zeng and Qing Hui, Energy-event-triggered hybrid supervisory control for cyber-physical network systems, IEEE Transactions on Automatic Control, vol. 60, no. 11, pp. 3083-3088, 2015. (SCI, 一作)
+Xianlin Zeng, Zhenyi Liu, and Qing Hui, Energy equipartition stabilization and cascading resilience optimization for geospatially distributed cyber-physical network systems, IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 45, no. 1, pp. 25-43, 2015. (SCI, 一作)
+Xianlin Zeng, Qing Hui, Wassim M. Haddad, Tomohisa Hayakawa, and James M. Bailey, Synchronization of biological neural network systems with stochastic perturbations and time delays, Journal of the Franklin Institute, vol. 351, no.3, pp. 1205-1225, 2014. (SCI, 一作)
+Yue Wei, Chengsi Shang, Hao Fang, Xianlin Zeng, Lihua Dou, Panos Pardalos, Solving a class of nonsmooth resource allocation problems with directed graphs through distributed Lipschitz continuous multi-proximal algorithms, Automatica, vol. 136, pp. 110071, 2022. (SCI)
+Chu Wu, Hao Fang, Qingkai Yang, Xianlin Zeng, and Jie Chen, Distributed cooperative control of redundant mobile manipulators with safety constraints, IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2021.3104044. (SCI)
+Weijian Li, Xianlin Zeng, Yiguang Hong, Haibo Ji, Distributed consensus-based solver for semi-definite programming: An optimization viewpoint, Automatica, vol. 131, pp. 109737, DOI10.1016/j.automatica.2021.109737. (SCI)
+Weijian Li, Xianlin Zeng, Shu Liang, and Yiguang Hong, Exponentially convergent algorithm design for constrained distributed optimization via non-smooth approach, IEEE Transactions on Automatic Control, vol. 67, no. 2, pp. 934-940, Feb. 2022. (SCI)
+Qing Wang, Jie Chen, Xianlin Zeng, and Bin Xin, Distributed proximal-gradient algorithms for nonsmooth convex optimization of second-order multiagent systems, International Journal of Robust and Nonlinear Control, vol. 30, no. 17, pp. 7574-7592, 2020. (SCI)
+Shu Liang, Xianlin Zeng, Guanpu Chen and Yiguang Hong, Distributed sub-optimal resource allocation via a projected form of singular perturbation, Automatica, vol. 121, pp. 109180, 2020. (SCI)
+Weijian Li, Xianlin Zeng, Yiguang Hong, Haibo Ji, Distributed design for nuclear norm minimization of linear matrix equation with constraints, IEEE Transactions on Automatic Control, vol. 66, no. 2, pp. 745 - 752, 2021. (SCI)
+Xia Jiang, Xianlin Zeng, Jian Sun, and Jie Chen, Distributed solver for discrete-time Lyapunov equations over dynamic networks with linear convergence rate, IEEE Transactions on Cybernetics, vol. 52, no. 2, pp. 937-946, 2022. (SCI)
+Qing Wang, Jie Chen, Bin Xin, and Xianlin Zeng, Distributed optimal consensus for Euler-Lagrange systems based on event-triggered control, IEEE Transactions on Systems, Man, Cybernetics: Systems, vol. 51, no. 7, pp. 4588-4598, 2021. (SCI)
+Yue Wei, Hao Fang, Xianlin Zeng, Jie Chen, and Panos Pardalos, A smooth double proximal primal-dual algorithm for a class of distributed nonsmooth optimization problem, IEEE Transactions on Automatic Control, vol. 65, no. 4, 1800-1806, 2020. (SCI)
+Guanpu Chen, Xianlin Zeng, and Yiguang Hong, Distributed optimisation design for solving the Stein equation with constraints, IET Control Theory & Applications, vol. 13, no. 15, pp. 2492 – 2499, 2019. (SCI)
+Hongbing Zhou, Xianlin Zeng, and Yiguang Hong, Adaptive exact penalty design for constrained distributed optimization, IEEE Transactions on Automatic Control, vol. 64, no. 11, pp. 4661 – 4667, 2019. (SCI)
+Shu Liang, Xianlin Zeng, and Yiguang Hong, Distributed sub-optimal resource allocation over weight-balanced graph via singular perturbation, Automatica, vol. 95, pp. 222-228, 2018. (SCI)
+Shu Liang and Xianlin Zeng, Multi-agent network flows that solve linear complementarity problems, Kybernetika, vol. 54, no. 3, pp. 542-556, 2018. (SCI)
+Shu Liang, Xianlin Zeng, and Yiguang Hong, Distributed nonsmooth optimization with coupled inequality constraints via modified Lagrangian function, IEEE Transactions on Automatic Control, vol. 63, no. 6, pp. 1753-1759, 2018. (SCI)
+Weiyong Yu, Zhenhua Deng, Hongbing Zhou, and Xianlin Zeng, Distributed event-triggered algorithm for optimal resource allocation of multi-agent systems, Kybernetika, vol. 53, no. 5, pp. 747-764, 2017. (SCI)
+邓文，李伟健，曾宪琳，洪奕光，矩阵方程的分布式求解算法研究概述，控制理论与应用, 38(11): 1695-1706, 2021. (综述，通讯)
+陈杰, 方浩, 曾宪琳, 面向高危行业的无人平台智能化发展, 中国科学: 信息科学, 2021, 51(9): 1397-1410. (综述)
+陈杰, 樊邦奎, 邓方, 何斌, 曾宪琳, 杨庆凯, 张瑞雨, 韩军伟, 丛杨, 王志衡, 张兆田, 吴国政*. 智能群系统的衍化与协同——第252期双清论坛学术综述. 中国科学基金, 2021, 35(4): 604-610.
+Weijian Li, Wen Deng, Xianlin Zeng, Yiguang Hong, Distributed solver for linear matrix inequalities: an optimization perspective. Control Theory and Technology, 19: 507-515, 2021. 
+Shu Liang, Xianlin Zeng, and Yiguang Hong, Lyapunov stability and generalized invariance principle for nonconvex differential inclusions, Control Theory and Technology, vol. 14, pp. 140-150, 2016. 
+Wen Deng, Xianlin Zeng, and Yiguang Hong, Distributed computation for solving the Sylvester equation based on optimization, IEEE Transactions on Control Systems Letters, vol. 4, no. 2, pp. 414-419, 2020. 
+姜霞, 曾宪琳, 孙健, 陈杰. 多飞行器的分布式优化研究现状与展望. 航空学报, 2021, 42(4): 524551-524551. (综述)
+Jiebang Xing and Xianlin Zeng, A deep reinforcement learning method for lion and man problem, 2021 40th Chinese Control Conference (CCC), 2021, pp. 8366-8371, doi: 10.23919/CCC52363.2021.9550113. 
 
-The **Hugo Portfolio Template** empowers you to easily create a portfolio website. Make it your own by choosing a color theme and grid layout!
-
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
-
-
+## Conference papers
+Xianlin Zeng, Lihua Dou, and Jie Chen, Accelerated first-order continuous-time algorithm for solving convex-concave bilinear saddle point problem, IFAC-PapersOnLine, vol. 53, no. 2, pp. 7362-7367, 2020. 
+Xia Jiang, Xianlin Zeng, Jian Sun, Jie Chen, Hybrid protocol for distributed non-differentiable extended monotropic optimization, 2020 IEEE 16th International Conference on Control & Automation (ICCA), 2020, pp. 654-659, doi: 10.1109/ICCA51439.2020.9264400. 
+Qing Wang, Xianlin Zeng, Bin Xin, Jie Chen, Distributed convex nonsmooth optimization for multi-agent system based on proximal operator, 2019 IEEE 15th International Conference on Control and Automation (ICCA), 2019, pp. 1085-1090, doi: 10.1109/ICCA.2019.8899755. 
+Jiang Xia, Xianlin Zeng, Jian Sun, and Jie Chen, Distributed algorithm for controllability test of discrete-time linear systems, 2019 Chinese Control Conference (CCC), 2019, pp. 5600-5605, doi: 10.23919/ChiCC.2019.8865176. 
+Yue Wei, Shuxin Ding, Hao Fang, Xianlin Zeng, Qingkai Yang, and Bin Xin, Distributed nonsmooth robust resource allocation with cardinality constrained uncertainty, 2019 Chinese Control Conference (CCC), 2019, pp. 5758-5763, doi: 10.23919/ChiCC.2019.8865499. 
+Xia Jiang, Xianlin Zeng, Jian Sun, and Jie Chen, Distributed algorithm for discrete-time Lyapunov equations, 2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV), 2018, pp. 768-773, doi: 10.1109/ICARCV.2018.8581279. 
+Xiong Zeng, Xianlin Zeng, Yiguang Hong, Distributed computation of common Lyapunov functions, 2018 37th Chinese Control Conference (CCC), 2018, pp. 2418-2423, doi: 10.23919/ChiCC.2018.8482578. 
+Chu Wu, Hao Fang, and Xianlin Zeng, Distributed transport of mobile manipulators with optimal manipulable coordination, 2018 37th Chinese Control Conference (CCC), 2018, pp. 7043-7048, doi: 10.23919/ChiCC.2018.8483276. 
+Xianlin Zeng, Shu Liang, and Jie Chen, Privacy preservation for distributed nonsmooth constrained optimization based on pseudo-subgradient, 2018 37th Chinese Control Conference (CCC), 2018, pp. 2400-2405, doi: 10.23919/ChiCC.2018.8483044. 
+Shixiong Kai, Hao Fang, Chu Wu, Xianlin Zeng, Qingkai Yang, Distributed formation and motion control in multiple mobile manipulator transportation: An energy optimization design, 2018 37th Chinese Control Conference (CCC), 2018, pp. 1179-1184, doi: 10.23919/ChiCC.2018.8484143.
+Wen Deng, Xianlin Zeng, and Yiguang Hong, Multi-agent network flow design to solve matrix equation based on nonsmooth convex optimization, 2018 37th Chinese Control Conference (CCC), 2018, pp. 6782-6787, doi: 10.23919/ChiCC.2018.8483677. 
+Wen Deng, Xianlin Zeng, and Yiguang Hong, Distributed continuous-time algorithm to solve a linear matrix equation, 2018 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2018, pp. 296-301, doi: 10.1109/RCAR.2018.8621638. 
+Xianlin Zeng, Peng Yi, and Jie Chen, Distributed Constrained Optimization Using a Projected Differential Inclusion, 2018 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2018, pp. 337-342, doi: 10.1109/RCAR.2018.8621846.
+Shu Liang, Xianlin Zeng, and Yiguang Hong, Distributed continuous-time algorithm for solving linear complementary problems with exponential convergence, 2018 IEEE 14th International Conference on Control and Automation (ICCA), 2018, pp. 1-6, doi: 10.1109/ICCA.2018.8444212.
+Kai Cao, Xianlin Zeng, and Yiguang Hong, Continuous-time distributed algorithms for solving linear algebraic equation, 2017 36th Chinese Control Conference (CCC), 2017, pp. 8068-8073, doi: 10.23919/ChiCC.2017.8028633. 
+Guanpu Chen, Xianlin Zeng, Peng Yi, and Yiguang Hong, Distributed algorithm for generalized Nash equilibria seeking of network aggregative game, 2017 36th Chinese Control Conference (CCC), 2017, pp. 11319-11324, doi: 10.23919/ChiCC.2017.8029163. 
+Hongbing Zhou, Xianlin Zeng, and Yiguang Hong, An exact penalty method for constrained distributed optimization, 2017 36th Chinese Control Conference (CCC), 2017, pp. 8827-8832, doi: 10.23919/ChiCC.2017.8028760. 
+Xianlin Zeng, Shu Liang, and Yiguang Hong, Distributed Variational equilibrium seeking of multi-coalition game via variational inequality approach, The 20th World Congress of the International Federation of Automatic Control, Toulouse, France, July 9-14, 201 IFAC-PapersOnLine, vol. 50, no. 1, pp. 940-945, 2017.
+Shu Liang, Xianlin Zeng, and Yiguang Hong, Stability criterion for nonsmooth systems and Nash equilibrium seeking via projected gradient dynamics, IFAC-PapersOnLine, vol. 50, no. 1, pp. 6134-6139, 2017. 
+Hongbing Zhou, Xianlin Zeng, and Yiguang Hong, Continuous-time algorithm for distributed nonsmooth optimization via decomposition design, 2017 13th IEEE International Conference on Control & Automation (ICCA), 2017, pp. 180-185, doi: 10.1109/ICCA.2017.8003056.
+Xianlin Zeng, Peng Yi and Yiguang Hong, Distributed continuous-time algorithm for robust resource allocation problems using output feedback, 2017 American Control Conference (ACC), 2017, pp. 4643-4648, doi: 10.23919/ACC.2017.7963672. 
+Xianlin Zeng and Qing Hui, A hybrid controller design for complex network systems with hybrid automaton-based convergence analysis, 2016 Annual IEEE Systems Conference (SysCon), 2016, pp. 1-8, doi: 10.1109/SYSCON.2016.7490566. 
+Xianlin Zeng and Qing Hui, Partial cluster stabilization and partial cascade stabilization of physical network, IFAC-PapersOnLine, vol. 48, no. 27, pp. 230–235, 2015.
+Xianlin Zeng and Qing Hui, Energy equipartition control for geospatial cyber-physical network systems, Proceedings of the ASME 2014 Dynamic Systems and Control Conference, 2014, https://doi.org/10.1115/DSCC2014-5944. 
+Xianlin Zeng, Qing Hui, Wassim M. Haddad, Tomohisa Hayakawa, and James M. Bailey, Synchronization of biological neural network systems with stochastic perturbations and time delays, 2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 2012, pp. 1059-1064, doi: 10.1109/CDC.2012.6425969. 
+Xianlin Zeng and Qing Hui, Global synchronization of biological network systems with time-varying delays, IFAC Proceedings Volumes, vol. 45, pp. 75-80, 2012. 
+Xianlin Zeng, Mingda Ma, and Guangren Duan, A new algorithm for minimum-fuel two-impulse orbit transfer, Proceedings of the 30th Chinese Control Conference, 2011, pp. 1978-1982. 
+Mingda Ma, Xianlin Zeng, and Guangren Duan, Optimal two-impulse orbital transfer between coplanar orbits, Proceedings of the 29th Chinese Control Conference, 2010, pp. 1692-1696.
