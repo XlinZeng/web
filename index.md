@@ -1,4 +1,7 @@
-# [Xianlin Zeng's Personal Webpage](https://xlinzeng.github.io/XZeng-bit/)
+# Complete publication list
+
+[Xianlin Zeng's Personal Webpage](https://xlinzeng.github.io/XZeng-bit/)
+
 ## Journal papers
 
 - Xianlin Zeng, Jinlong Lei and Jie Chen, Dynamical primal-dual accelerated method with applications to network optimization, IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2022.3152720. 
