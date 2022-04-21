@@ -5,7 +5,7 @@
 ## Journal papers
 
 - Xia Jiang, Xianlin Zeng, Jian Sun*, and Jie Chen, Distributed synchronous and asynchronous algorithms for semi-definite programming with diagonal constraints, IEEE Transactions on Automatic Control, accepted
-- 
+
 - Xianlin Zeng, Jinlong Lei and Jie Chen, Dynamical primal-dual accelerated method with applications to network optimization, IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2022.3152720. 
 
 - Xianlin Zeng, Jie Chen and Yiguang Hong, Distributed optimization design of iterative refinement technique for algebraic Riccati equations, IEEE Transactions on Systems Man Cybernetics: Systems, vol. 52, no. 5, pp. 2833-2847, May 2022.
