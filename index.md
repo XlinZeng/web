@@ -4,7 +4,7 @@
 
 ## Journal papers
 - Chu Wu, Hao Fang, Xianlin Zeng*, Qingkai Yang, Yue Wei, and Jie Chen, Distributed Continuous-Time Algorithm for Time-Varying Optimization With Affine Formation Constraints, IEEE Transactions on Automatic Control, DOI: 10.1109/TAC.2022.3190054
-- Jie Hou, Xianlin Zeng*, Gang Wang, Jian Sun, and Jie Chen, Distributed Momentum-based Frank-Wolfe Algorithm for Stochastic Optimization, IEEE/CAA JOURNAL OF AUTOMATICA SINICA, accepted
+- Jie Hou, Xianlin Zeng*, Gang Wang, Jian Sun, and Jie Chen, Distributed Momentum-based Frank-Wolfe Algorithm for Stochastic Optimization, IEEE/CAA JOURNAL OF AUTOMATICA SINICA, DOI: 10.1109/JAS.2022.105923
 - Xia Jiang, Xianlin Zeng*, Jian Sun, and Jie Chen, Distributed stochastic gradient tracking algorithm with variance reduction for non-convex optimization, IEEE Transactions on Neural Networks and Learning Systems, DOI: 10.1109/TNNLS.2022.3170944
 - Xia Jiang, Xianlin Zeng, Jian Sun*, and Jie Chen, Distributed synchronous and asynchronous algorithms for semi-definite programming with diagonal constraints, IEEE Transactions on Automatic Control, (tentative) Volume, 68 (2023), Issue 4 (April), DOI: 10.1109/TAC.2022.3170529.
 - Xianlin Zeng, Jinlong Lei and Jie Chen, Dynamical primal-dual accelerated method with applications to network optimization, IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2022.3152720. 
