@@ -51,6 +51,8 @@
 
 
 ## Conference papers
+- Kai Wang, Jie Hou, and Xianlin Zeng, Lane-Change Intention Prediction of Surrounding Vehicles Using BiLSTM-CRF Models with Rule Embedding, 2022 China Automation Congress (CAC2022), Nov. 25-27, Xiamen, China
+- Jie Hou, Xianlin Zeng, and Gang Wang, Distributed Conditional Gradient Algorithm for Two-Network Zero-Sum Games, The 34th Chinese Control and Decision Conference (CCDC 2022), May 21-23, Hefei, China
 - Jiebang Xing and Xianlin Zeng, A deep reinforcement learning method for lion and man problem, 2021 40th Chinese Control Conference (CCC), 2021, pp. 8366-8371, doi: 10.23919/CCC52363.2021.9550113. 
 - Xianlin Zeng, Lihua Dou, and Jie Chen, Accelerated first-order continuous-time algorithm for solving convex-concave bilinear saddle point problem, IFAC-PapersOnLine, vol. 53, no. 2, pp. 7362-7367, 2020. 
 - Xia Jiang, Xianlin Zeng, Jian Sun, Jie Chen, Hybrid protocol for distributed non-differentiable extended monotropic optimization, 2020 IEEE 16th International Conference on Control & Automation (ICCA), 2020, pp. 654-659, doi: 10.1109/ICCA51439.2020.9264400. 
