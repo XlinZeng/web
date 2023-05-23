@@ -3,6 +3,7 @@
 [Xianlin Zeng's Personal Webpage](https://xlinzeng.github.io/XZeng-bit/)
 
 ## Journal papers
+- Xia Jiang, Xianlin Zeng, Lihua Xie and Jian Sun, Variance-reduced Shuffling Gradient Descent with Momentum for Finite-sum Minimization, IEEE Control Systems Letters, doi: 10.1109/LCSYS.2023.3278700.
 - Zijun Cheng, Xianlin Zeng, Hao Fang, Gang Wang, and Lihua Dou, Hierarchical MPC-based Motion Planning for Automated Vehicles in Parallel Autonomy, Unmanned Systems, accepted, March, 2023
 - Songsong Cheng, Jinlong Lei, Xianlin Zeng, Yuan Fan, and Yiguang Hong, Effective distributed algorithm for solving linear matrix equations, Sci China Inf Sci, 2023, 66: 189202, doi: 10.1007/s11432-021-3485-0
 - Yinghui Wang, Xianlin Zeng, Wenxiao Zhao, and Yiguang Hong, A zeroth-order Algorithm to distributed optimization with stochastic stripe observations, SCIENCE CHINA Information Sciences, accepted
