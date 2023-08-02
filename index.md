@@ -54,6 +54,7 @@
 
 
 ## Conference papers
+- Lan Wang, Xianlin Zeng, Hao Fang, and Lihua Dou, A Rulefit based model for driving intention prediction at intersections, 2023 China Automation Congress (CAC2023), Nov. 25-27, Xiamen, China
 - Kai Wang, Jie Hou, and Xianlin Zeng, Lane-Change Intention Prediction of Surrounding Vehicles Using BiLSTM-CRF Models with Rule Embedding, 2022 China Automation Congress (CAC2022), Nov. 25-27, Xiamen, China
 - Jie Hou, Xianlin Zeng, and Gang Wang, Distributed Conditional Gradient Algorithm for Two-Network Zero-Sum Games, The 34th Chinese Control and Decision Conference (CCDC 2022), May 21-23, Hefei, China
 - Jiebang Xing and Xianlin Zeng, A deep reinforcement learning method for lion and man problem, 2021 40th Chinese Control Conference (CCC), 2021, pp. 8366-8371, doi: 10.23919/CCC52363.2021.9550113. 
