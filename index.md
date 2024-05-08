@@ -2,8 +2,13 @@
 
 [Xianlin Zeng's Personal Webpage](https://xlinzeng.github.io/XZeng-bit/)
 
-## Journal papers
+## Textbooks and Monographs
 - Xianlin Zeng, Yiguang Hong, Hao Fang, Distributed Optimization and Control of Multi-agent System, Beijing Institute of Technology Press, 2023 (in Chinese);（曾宪琳，洪奕光，方浩，多智能体系统的分布式非光滑优化控制，北京理工大学出版社，2023）
+
+## Journal papers
+- Jie Hou, Xianlin Zeng*, and Chen Chen*, Distributed Gradient-free and Projection-free Solver for Stochastic Constrained Optimization, Autonomous Intelligent Systems, Auton. Intell. Syst. 4, 6 (2024).
+- Xia Jiang, Yanyan Fang, Xianlin Zeng*, Jian Sun, and Jie Chen, Inexact Proximal Gradient Algorithm With Random Reshuffling for Nonsmooth Optimization,  Science China Information Sciences, accepted
+- Yi Huang, Xianlin Zeng*, Ziyang Meng, Deyuan Meng, Distributed Algorithms of Solving Linear Matrix Equations via Double-Layered Networks, AUTOMATICA, Volume 165, 2024, 111662. 
 - Xia Jiang, Xianlin Zeng, Lihua Xie and Jian Sun, Variance-reduced Shuffling Gradient Descent with Momentum for Finite-sum Minimization, IEEE Control Systems Letters, doi: 10.1109/LCSYS.2023.3278700.
 - Zijun Cheng, Xianlin Zeng, Hao Fang, Gang Wang, and Lihua Dou, Hierarchical MPC-based Motion Planning for Automated Vehicles in Parallel Autonomy, Unmanned Systems, accepted, March, 2023
 - Songsong Cheng, Jinlong Lei, Xianlin Zeng, Yuan Fan, and Yiguang Hong, Effective distributed algorithm for solving linear matrix equations, Sci China Inf Sci, 2023, 66: 189202, doi: 10.1007/s11432-021-3485-0
