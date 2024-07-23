@@ -6,6 +6,7 @@
 - Xianlin Zeng, Yiguang Hong, Hao Fang, Distributed Optimization and Control of Multi-agent System, Beijing Institute of Technology Press, 2023 (in Chinese);（曾宪琳，洪奕光，方浩，多智能体系统的分布式非光滑优化控制，北京理工大学出版社，2023）
 
 ## Journal papers
+- Jie Hou, Xianlin Zeng*, Gang Wang, Chen Chen, Jian Sun, Distributed Frank-Wolfe Solver for Stochastic Optimization with Coupled Inequality Constraints, IEEE Transactions on Neural Networks and Learning Systems, DOI: 10.1109/TNNLS.2024.3423376
 - Jie Hou, Xianlin Zeng*, and Chen Chen*, Distributed Gradient-free and Projection-free Solver for Stochastic Constrained Optimization, Autonomous Intelligent Systems, Auton. Intell. Syst. 4, 6 (2024).
 - Xia Jiang, Yanyan Fang, Xianlin Zeng*, Jian Sun, and Jie Chen, Inexact Proximal Gradient Algorithm With Random Reshuffling for Nonsmooth Optimization,  Science China Information Sciences, accepted
 - Yi Huang, Xianlin Zeng*, Ziyang Meng, Deyuan Meng, Distributed Algorithms of Solving Linear Matrix Equations via Double-Layered Networks, AUTOMATICA, Volume 165, 2024, 111662. 
