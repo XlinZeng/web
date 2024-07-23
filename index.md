@@ -63,6 +63,10 @@
 
 
 ## Conference papers
+- Yixuan Li, Jie Hou, Xianlin Zeng, and Zhihong Peng,  Predicting Strategy of Rational Evader in Cooperative Pursuit: A Distributed Bimatrix Zero-sum Game Approach,  the 43rd Chinese Control Conference, July 28-31, 2024, Kunming, China
+- Kui Zhu and Xianlin Zeng, Almost sure convergence to approximate Nash equilibrium in zero-sum extensive-form games with noisy feedback, The 18th IEEE International Conference on Control & Automation, June 18-21, 2024, Reykjavík, Iceland
+- Xuanming Zhang, Xianlin Zeng*, and Zhihong Peng,  Enhancing Autonomous Racing Strategies: A Cognitive Hierarchy-Based Safe Motion Planning Approach,  the 43rd Chinese Control Conference, July 28-31, 2024, Kunming, China
+- Yanyan Fang, Yani Wang, Xianlin Zeng*, Hao Fang, and Lihua Dou, DS-SGAN: Driving Style-Guided Spatial-Graph Attention Network for Trajectory Prediction of Vehicle, 2023 International Conference on Industrial Automation, Robotics and Control Engineering, October 27-30,  2023, Suzhou, China.
 - Lan Wang, Xianlin Zeng, Hao Fang, and Lihua Dou, A Rulefit based model for driving intention prediction at intersections, 2023 China Automation Congress (CAC2023), Nov. 25-27, Xiamen, China
 - Kai Wang, Jie Hou, and Xianlin Zeng, Lane-Change Intention Prediction of Surrounding Vehicles Using BiLSTM-CRF Models with Rule Embedding, 2022 China Automation Congress (CAC2022), Nov. 25-27, Xiamen, China
 - Jie Hou, Xianlin Zeng, and Gang Wang, Distributed Conditional Gradient Algorithm for Two-Network Zero-Sum Games, The 34th Chinese Control and Decision Conference (CCDC 2022), May 21-23, Hefei, China
