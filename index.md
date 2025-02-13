@@ -6,6 +6,7 @@
 - Xianlin Zeng, Yiguang Hong, Hao Fang, Distributed Optimization and Control of Multi-agent System, Beijing Institute of Technology Press, 2023 (in Chinese);（曾宪琳，洪奕光，方浩，多智能体系统的分布式非光滑优化控制，北京理工大学出版社，2023）
 
 ## Journal papers
+- Xiaozhen Zhang, Qingkai Yang*, Xianlin Zeng, Hao Fang and Jie Chen, Cooperative Shape-Translation Estimation and Control for Time-Varying Linear Formation, IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2025.3540570.
 - Xia Jiang, Xianlin Zeng*, Lihua Xie, Jian Sun, Jie Chen, Variance-reduced Reshuffling Gradient Descent for Nonconvex Optimization: Centralized and Distributed Algorithms, Automatica, 23 Sep 2024 
 - Xia Jiang, Xianlin Zeng*, Lihua Xie, Jian Sun, and Jie Chen, Distributed stochastic projection-free solver for constrained optimization,  IEEE Transactions on Automatic Control, accepted, 2024
 - Yi Huang, Xianlin Zeng*, Jian Sun and Ziyang Meng, Distributed Event-Triggered Algorithm for Convex Optimization with Coupled Constraints, Automatica, accepted
