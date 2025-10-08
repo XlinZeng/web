@@ -4,6 +4,7 @@
 
 ## Textbooks and Monographs
 - Xianlin Zeng, Yiguang Hong, Hao Fang, Distributed Optimization and Control of Multi-agent System, Beijing Institute of Technology Press, 2023 (in Chinese);（曾宪琳，洪奕光，方浩，多智能体系统的分布式非光滑优化控制，北京理工大学出版社，2023）
+- Hao Fang, Xianlin Zeng, Qingkai Yang, Jie Chen, Autonomous Intelligent Unmanned System, Tsinghua University Press, 2023 (in Chinese);（方浩，曾宪琳，杨庆凯，陈杰，自主智能无人系统，清华大学出版社，2025）
 
 ## Journal papers
 - Weijian Li, Xianlin Zeng, Lacra Pavel* , Primal-dual Accelerated Mirror-Descent Method for Constrained Bilinear Saddle-Point Problems,  IEEE Transactions on Automatic Control, 2026 February issue
@@ -72,9 +73,12 @@
 
 
 ## Conference papers
+-Xia Jiang; Xianlin Zeng; Anthony Man-Cho So*, Probabilistic Variance-Reduced Shuffling Gradient Descent Algorithm for Nonconvex Optimization, the 44th Chinese Control Conference, July 28-30, 2025, Chongqing, China
 - Yixuan Li, Jie Hou, Xianlin Zeng, and Zhihong Peng,  Predicting Strategy of Rational Evader in Cooperative Pursuit: A Distributed Bimatrix Zero-sum Game Approach,  the 43rd Chinese Control Conference, July 28-31, 2024, Kunming, China
-- Kui Zhu and Xianlin Zeng, Almost sure convergence to approximate Nash equilibrium in zero-sum extensive-form games with noisy feedback, The 18th IEEE International Conference on Control & Automation, June 18-21, 2024, Reykjavík, Iceland
 - Xuanming Zhang, Xianlin Zeng*, and Zhihong Peng,  Enhancing Autonomous Racing Strategies: A Cognitive Hierarchy-Based Safe Motion Planning Approach,  the 43rd Chinese Control Conference, July 28-31, 2024, Kunming, China
+- Kui Zhu and Xianlin Zeng, Almost sure convergence to approximate Nash equilibrium in zero-sum extensive-form games with noisy feedback, The 18th IEEE International Conference on Control & Automation, June 18-21, 2024, Reykjavík, Iceland
+- Yuanchu Shen, Chen Chen*, Xianlin Zeng, and Wenjie Chen, Distributed Algorithm for Time-varying Convex Optimization with Fixed-time Convergence, The 18th IEEE International Conference on Control & Automation, June 18-21, 2024, Reykjavík, Iceland
+- Shilei Shan, Zhihong Peng*, and Xianlin Zeng, Two-Stage Multi-Robot Task Allocation Algorithms in Local Communication Scenarios, The 18th IEEE International Conference on Control & Automation, June 18-21, 2024, Reykjavík, Iceland
 - Yanyan Fang, Yani Wang, Xianlin Zeng*, Hao Fang, and Lihua Dou, DS-SGAN: Driving Style-Guided Spatial-Graph Attention Network for Trajectory Prediction of Vehicle, 2023 International Conference on Industrial Automation, Robotics and Control Engineering, October 27-30,  2023, Suzhou, China.
 - Lan Wang, Xianlin Zeng, Hao Fang, and Lihua Dou, A Rulefit based model for driving intention prediction at intersections, 2023 China Automation Congress (CAC2023), Nov. 25-27, Xiamen, China
 - Kai Wang, Jie Hou, and Xianlin Zeng, Lane-Change Intention Prediction of Surrounding Vehicles Using BiLSTM-CRF Models with Rule Embedding, 2022 China Automation Congress (CAC2022), Nov. 25-27, Xiamen, China
