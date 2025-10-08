@@ -73,7 +73,7 @@
 
 
 ## Conference papers
--Xia Jiang; Xianlin Zeng; Anthony Man-Cho So*, Probabilistic Variance-Reduced Shuffling Gradient Descent Algorithm for Nonconvex Optimization, the 44th Chinese Control Conference, July 28-30, 2025, Chongqing, China
+- Xia Jiang; Xianlin Zeng; Anthony Man-Cho So*, Probabilistic Variance-Reduced Shuffling Gradient Descent Algorithm for Nonconvex Optimization, the 44th Chinese Control Conference, July 28-30, 2025, Chongqing, China
 - Yixuan Li, Jie Hou, Xianlin Zeng, and Zhihong Peng,  Predicting Strategy of Rational Evader in Cooperative Pursuit: A Distributed Bimatrix Zero-sum Game Approach,  the 43rd Chinese Control Conference, July 28-31, 2024, Kunming, China
 - Xuanming Zhang, Xianlin Zeng*, and Zhihong Peng,  Enhancing Autonomous Racing Strategies: A Cognitive Hierarchy-Based Safe Motion Planning Approach,  the 43rd Chinese Control Conference, July 28-31, 2024, Kunming, China
 - Kui Zhu and Xianlin Zeng, Almost sure convergence to approximate Nash equilibrium in zero-sum extensive-form games with noisy feedback, The 18th IEEE International Conference on Control & Automation, June 18-21, 2024, Reykjavík, Iceland
