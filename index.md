@@ -6,6 +6,11 @@
 - Xianlin Zeng, Yiguang Hong, Hao Fang, Distributed Optimization and Control of Multi-agent System, Beijing Institute of Technology Press, 2023 (in Chinese);（曾宪琳，洪奕光，方浩，多智能体系统的分布式非光滑优化控制，北京理工大学出版社，2023）
 
 ## Journal papers
+- Weijian Li, Xianlin Zeng, Lacra Pavel* , Primal-dual Accelerated Mirror-Descent Method for Constrained Bilinear Saddle-Point Problems,  IEEE Transactions on Automatic Control, 2026 February issue
+- Yan Zhu, Zhihong Peng*, and Xianlin Zeng, Output Regulation of Heterogeneous Multi-agent Systems with Switched Linear Dynamics, International Journal of Robust and Nonlinear Control, accepted, August, 2025
+- Yi Huang, Shisheng Cui*, Xianlin Zeng, Ziyang Meng, Distributed Stochastic Constrained Optimization with Constant Step-sizes via Saddle-Point Dynamics, Automatica, accepted, August, 2025
+- Jie Hou, Xianlin Zeng*, Shisheng Cui, Xia Jiang, and Jian Sun, Stochastic Frank-Wolfe Algorithm for Constrained Bilevel Optimization with Improved Per-iteration Complexity, TSP, accepted. Aug 1, 2025
+- Jie Hou, Xianlin Zeng*, Shisheng Cui, and Jian Sun, Distributed Stochastic Frank-Wolfe for Constrained Composite Minimization, IEEE Transactions on Automatic Control, 2025 December issue
 - Xiaozhen Zhang, Qingkai Yang*, Xianlin Zeng, Hao Fang and Jie Chen, Cooperative Shape-Translation Estimation and Control for Time-Varying Linear Formation, IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2025.3540570.
 - Xia Jiang, Xianlin Zeng*, Lihua Xie, Jian Sun, Jie Chen, Variance-reduced Reshuffling Gradient Descent for Nonconvex Optimization: Centralized and Distributed Algorithms, Automatica, 23 Sep 2024 
 - Xia Jiang, Xianlin Zeng*, Lihua Xie, Jian Sun, and Jie Chen, Distributed stochastic projection-free solver for constrained optimization,  IEEE Transactions on Automatic Control, accepted, 2024
