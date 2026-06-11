@@ -7,6 +7,13 @@
 - Hao Fang, Xianlin Zeng, Qingkai Yang, Jie Chen, Autonomous Intelligent Unmanned System, Tsinghua University Press, 2023 (in Chinese);（方浩，曾宪琳，杨庆凯，陈杰，自主智能无人系统，清华大学出版社，2025）
 
 ## Journal papers
+-  Zhonghao Lin, Jie Hou*, Xianlin Zeng, Optimal Prediction-Correction Algorithm Using Sparse Linear Extrapolation for Time-Varying Optimization, IEEE Transactions on Signal Processing, accepted, 2026 
+-  Zhonghao Lin, Xianlin Zeng, Jie Hou*, Jian Sun, and Jie Chen, Primal-Dual Prediction-Correction Method with Tunable Memory for Linearly Constrained Time-Varying Convex Optimization, Journal of Systems Science and Complexity, 39 (2), 483-510, 2026
+-  Jie Hou, Xia Jiang, Xianlin Zeng*, Lulu Zhao* and Jian Sun, Distributed Nonsmooth Nonconvex Optimization: Deterministic and Stochastic Zeroth-Order Algorithms with Decaying Step Sizes, IEEE Transactions on Signal and Information Processing over Networks, accepted, 2026 
+-  Xiaozhen Zhang, Xianlin Zeng, Qingkai Yang, Hao Fang, Lihua Xie, Jie Chen, Distributed Nominal Configuration Design for Linear Formations, IEEE Transactions on Automatic Control, accepted, 2026
+-  X. Yu, S. Cheng, X. Zeng and Y. Fan, "Exact Penalty Design for Distributed Projection-Free Optimization with Event-Triggered Communication," in IEEE Transactions on Control of Network Systems, doi: 10.1109/TCNS.2026.3667759.
+-  Zhonghao Lin, Xianlin Zeng, Jie Hou*, Jian Sun, and Jie Chen, Primal-Dual Prediction-Correction Method with Tunable Memory for Linearly Constrained Time-Varying Convex Optimization, Journal of Systems Science and Complexity, accepted, 2026 
+-  Xia JIANG , Xianlin ZENG, Jian SUN*, Jie CHEN, 多智能体系统分布式优化综述与前瞻，中国科学信息科学，2025-11-25. 2025-11-25. https://www.sciengine.com/doi/10.1360/SSI-2025-0337.
 - Weijian Li, Xianlin Zeng, Lacra Pavel* , Primal-dual Accelerated Mirror-Descent Method for Constrained Bilinear Saddle-Point Problems,  IEEE Transactions on Automatic Control, 2026 February issue
 - Yan Zhu, Zhihong Peng*, and Xianlin Zeng, Output Regulation of Heterogeneous Multi-agent Systems with Switched Linear Dynamics, International Journal of Robust and Nonlinear Control, accepted, August, 2025
 - Yi Huang, Shisheng Cui*, Xianlin Zeng, Ziyang Meng, Distributed Stochastic Constrained Optimization with Constant Step-sizes via Saddle-Point Dynamics, Automatica, accepted, August, 2025
