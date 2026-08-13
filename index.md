@@ -5,6 +5,7 @@
 ## Textbooks and Monographs
 - Xianlin Zeng, Yiguang Hong, Hao Fang, Distributed Optimization and Control of Multi-agent System, Beijing Institute of Technology Press, 2023 (in Chinese);（曾宪琳，洪奕光，方浩，多智能体系统的分布式非光滑优化控制，北京理工大学出版社，2023）
 - Hao Fang, Xianlin Zeng, Qingkai Yang, Jie Chen, Autonomous Intelligent Unmanned System, Tsinghua University Press, 2023 (in Chinese);（方浩，曾宪琳，杨庆凯，陈杰，自主智能无人系统，清华大学出版社，2025）
+- Hao Fang, Qingkai Yang, Xianlin, Jie Chen, Collaborative Control and Optimization of Autonomous Unmanned Systems, China Science Publishing & Media Ltd., 2026.6 (in Chinese);（方浩，杨庆凯，曾宪琳，陈杰，自主无人系统协同控制与优化，科学出版社，2026）
 
 ## Journal papers
 - Zijun Cheng, Xianlin Zeng*, and Fang Hao, Opportunistic Platoon Formation for Multi-Lane Highway On-Ramp Merging Considering Individual Rationality, IEEE Transactions on Vehicular Technology, August, 2026
