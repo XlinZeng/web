@@ -7,6 +7,7 @@
 - Hao Fang, Xianlin Zeng, Qingkai Yang, Jie Chen, Autonomous Intelligent Unmanned System, Tsinghua University Press, 2023 (in Chinese);（方浩，曾宪琳，杨庆凯，陈杰，自主智能无人系统，清华大学出版社，2025）
 
 ## Journal papers
+- Zijun Cheng, Xianlin Zeng*, and Fang Hao, Opportunistic Platoon Formation for Multi-Lane Highway On-Ramp Merging Considering Individual Rationality, IEEE Transactions on Vehicular Technology, August, 2026
 -  Zhonghao Lin, Jie Hou*, Xianlin Zeng, Optimal Prediction-Correction Algorithm Using Sparse Linear Extrapolation for Time-Varying Optimization, IEEE Transactions on Signal Processing, accepted, 2026 
 -  Zhonghao Lin, Xianlin Zeng, Jie Hou*, Jian Sun, and Jie Chen, Primal-Dual Prediction-Correction Method with Tunable Memory for Linearly Constrained Time-Varying Convex Optimization, Journal of Systems Science and Complexity, 39 (2), 483-510, 2026
 -  Jie Hou, Xia Jiang, Xianlin Zeng*, Lulu Zhao* and Jian Sun, Distributed Nonsmooth Nonconvex Optimization: Deterministic and Stochastic Zeroth-Order Algorithms with Decaying Step Sizes, IEEE Transactions on Signal and Information Processing over Networks, accepted, 2026 
